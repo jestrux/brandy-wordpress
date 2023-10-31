@@ -1,0 +1,42 @@
+#cc-everywhere-root {
+	z-index: 999999;
+}
+
+.brandy-toolbar-action-button {
+	margin-left: 8px;
+	padding: 4px 8px;
+	position: relative;
+	top: -3px;
+	text-decoration: none;
+	border: 1px solid #2271b1;
+	border-radius: 2px;
+	text-shadow: none;
+	font-weight: 600;
+	font-size: 13px;
+	line-height: normal;
+	color: #2271b1;
+	background: #f6f7f7;
+	cursor: pointer;
+	outline: 0;
+}
+
+.brandy-edit-attachment-button {
+	color: #2271b1;
+	border-color: #2271b1;
+	background: #f6f7f7;
+	display: inline-block;
+	text-decoration: none;
+	font-size: 13px;
+	line-height: 2.15384615;
+	min-height: 30px;
+	margin: 0;
+	margin-left: 8px;
+	padding: 0 10px;
+	cursor: pointer;
+	border-width: 1px;
+	border-style: solid;
+	-webkit-appearance: none;
+	border-radius: 3px;
+	white-space: nowrap;
+	box-sizing: border-box;
+}

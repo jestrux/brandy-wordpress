@@ -1,0 +1,15 @@
+{
+	"name": "waky/brandy",
+	"autoload": {
+		"psr-4": {
+			"Waky\\Brandy\\": "src/"
+		}
+	},
+	"authors": [
+		{
+			"name": "Walter Kimaro",
+			"email": "wakyj07@gmail.com"
+		}
+	],
+	"require": {}
+}
